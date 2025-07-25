@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nitin Sachdeva</h1>
 <h3 align="center">A passionate Full Stack developer from India</h3>
 
-- Hii i am Working in E Commerce Project [createlens](createlens.in)
+- Hii i am Working in E Commerce Project [createlens]([createlens.in](https://www.creatorslens.in/))
 
 - My Portfolio [nitindev.tech](nitindev.tech)
 
